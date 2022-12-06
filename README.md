@@ -2,6 +2,9 @@
 # Fall 2022
 
 
+
+Machine Learning Algorithms for predicting the diamond price
+
 Team Members:
 
 Sai Manjith Matta
