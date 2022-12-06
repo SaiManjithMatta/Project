@@ -3,7 +3,7 @@
 
 
 
-Machine Learning Algorithms for predicting the diamond price
+# Machine Learning Algorithms for predicting the diamond price #
 
 Team Members:
 
